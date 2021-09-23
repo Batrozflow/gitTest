@@ -16,4 +16,6 @@ void loop()
 	counter++;
   delay(1000);
   Serial.print("Counter=");
+  Serial.println("");
+
 }
