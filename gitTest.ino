@@ -8,6 +8,8 @@ long counter;
 void setup()
 {
 	counter = 0;
+	Serial.println("Setup");
+	
 }
 
 // the loop function runs over and over again until power down or reset
